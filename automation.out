@@ -1,0 +1,422 @@
+2018-03-31 04:58:14 INFO  TestBase:26 - To read the config Property file
+2018-03-31 04:58:14 INFO  TestBase:28 - To read fis 
+2018-03-31 04:58:14 INFO  TestBase:30 - load the Properties
+2018-03-31 04:59:17 INFO  TestBase:26 - To read the config Property file
+2018-03-31 04:59:17 INFO  TestBase:28 - To read fis 
+2018-03-31 04:59:17 INFO  TestBase:30 - load the Properties
+2018-03-31 05:11:00 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:11:00 INFO  TestBase:28 - To read fis 
+2018-03-31 05:11:00 INFO  TestBase:30 - load the Properties
+2018-03-31 05:11:08 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:11:48 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:11:48 INFO  TestBase:28 - To read fis 
+2018-03-31 05:11:48 INFO  TestBase:30 - load the Properties
+2018-03-31 05:11:52 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:13:24 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:13:24 INFO  TestBase:28 - To read fis 
+2018-03-31 05:13:24 INFO  TestBase:30 - load the Properties
+2018-03-31 05:13:31 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:22:35 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:22:35 INFO  TestBase:28 - To read fis 
+2018-03-31 05:22:35 INFO  TestBase:30 - load the Properties
+2018-03-31 05:22:44 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:23:19 INFO  TestBase:55 - To enter the URLhttp://automationpractice.com/index.php?
+2018-03-31 05:23:20 INFO  TestBase:57 - Maximize the windo
+2018-03-31 05:23:20 INFO  TestBase:59 - implicitwait 20 second 
+2018-03-31 05:23:44 INFO  TestBase:28 - To click on Sign in
+2018-03-31 05:38:01 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:38:01 INFO  TestBase:28 - To read fis 
+2018-03-31 05:38:01 INFO  TestBase:30 - load the Properties
+2018-03-31 05:38:18 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:38:49 INFO  TestBase:55 - To enter the URLhttp://automationpractice.com/index.php?
+2018-03-31 05:38:50 INFO  TestBase:57 - Maximize the windo
+2018-03-31 05:38:50 INFO  TestBase:59 - implicitwait 20 second 
+2018-03-31 05:39:14 INFO  TestBase:28 - To click on Sign in
+2018-03-31 05:46:16 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:46:16 INFO  TestBase:28 - To read fis 
+2018-03-31 05:46:16 INFO  TestBase:30 - load the Properties
+2018-03-31 05:46:32 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:47:03 INFO  TestBase:55 - To enter the URLhttp://automationpractice.com/index.php?
+2018-03-31 05:47:04 INFO  TestBase:57 - Maximize the windo
+2018-03-31 05:47:04 INFO  TestBase:59 - implicitwait 20 second 
+2018-03-31 05:47:29 INFO  TestBase:28 - To click on Sign in
+2018-03-31 05:49:36 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:49:36 INFO  TestBase:28 - To read fis 
+2018-03-31 05:49:36 INFO  TestBase:30 - load the Properties
+2018-03-31 05:49:46 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:50:20 INFO  TestBase:55 - To enter the URLhttp://automationpractice.com/index.php?
+2018-03-31 05:50:21 INFO  TestBase:57 - Maximize the windo
+2018-03-31 05:50:21 INFO  TestBase:59 - implicitwait 20 second 
+2018-03-31 05:50:24 INFO  TestBase:28 - To click on Sign in
+2018-03-31 05:51:51 INFO  TestBase:26 - To read the config Property file
+2018-03-31 05:51:51 INFO  TestBase:28 - To read fis 
+2018-03-31 05:51:51 INFO  TestBase:30 - load the Properties
+2018-03-31 05:52:03 INFO  TestBase:38 - To Launch the Chrome Browser
+2018-03-31 05:52:36 INFO  TestBase:55 - To enter the URLhttp://automationpractice.com/index.php?
+2018-03-31 05:52:38 INFO  TestBase:57 - Maximize the windo
+2018-03-31 05:52:38 INFO  TestBase:59 - implicitwait 20 second 
+2018-03-31 05:52:41 INFO  TestBase:28 - To click on Sign in
+2018-03-31 06:04:18 INFO  TestBase:27 - To read the config Property file
+2018-03-31 06:04:18 INFO  TestBase:29 - To read fis 
+2018-03-31 06:04:18 INFO  TestBase:31 - load the Properties
+2018-03-31 06:04:40 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-03-31 06:05:12 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-03-31 06:05:13 INFO  TestBase:58 - Maximize the windo
+2018-03-31 06:05:13 INFO  TestBase:60 - implicitwait 20 second 
+2018-03-31 06:05:17 INFO  TestBase:28 - To click on Sign in
+2018-03-31 06:05:23 INFO  TestBase:74 - close the browser
+2018-03-31 06:11:38 INFO  TestBase:27 - To read the config Property file
+2018-03-31 06:11:38 INFO  TestBase:29 - To read fis 
+2018-03-31 06:11:38 INFO  TestBase:31 - load the Properties
+2018-03-31 06:11:49 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-03-31 06:12:22 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-03-31 06:12:24 INFO  TestBase:58 - Maximize the windo
+2018-03-31 06:12:24 INFO  TestBase:60 - implicitwait 20 second 
+2018-03-31 06:12:27 INFO  TestBase:28 - To click on Sign in
+2018-03-31 06:12:32 INFO  TestBase:37 - click on Create new Account
+2018-03-31 06:12:39 INFO  TestBase:74 - close the browser
+2018-03-31 06:23:23 INFO  TestBase:27 - To read the config Property file
+2018-03-31 06:23:23 INFO  TestBase:29 - To read fis 
+2018-03-31 06:23:23 INFO  TestBase:31 - load the Properties
+2018-03-31 06:24:32 INFO  TestBase:27 - To read the config Property file
+2018-03-31 06:24:32 INFO  TestBase:29 - To read fis 
+2018-03-31 06:24:32 INFO  TestBase:31 - load the Properties
+2018-03-31 06:24:57 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-03-31 06:25:32 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-03-31 06:25:35 INFO  TestBase:58 - Maximize the windo
+2018-03-31 06:25:35 INFO  TestBase:60 - implicitwait 20 second 
+2018-03-31 06:25:44 INFO  TestBase:28 - To click on Sign in
+2018-03-31 06:25:59 INFO  TestBase:74 - close the browser
+2018-04-01 02:22:55 INFO  TestBase:27 - To read the config Property file
+2018-04-01 02:22:55 INFO  TestBase:29 - To read fis 
+2018-04-01 02:22:55 INFO  TestBase:31 - load the Properties
+2018-04-01 02:23:07 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 02:23:40 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 02:23:41 INFO  TestBase:58 - Maximize the windo
+2018-04-01 02:23:41 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 02:23:44 INFO  SigninPageObjects:30 - To click on Sign in
+2018-04-01 02:23:50 INFO  SigninPageObjects:37 - enter eamil
+2018-04-01 02:23:50 INFO  SigninPageObjects:39 - click on Create new Account
+2018-04-01 02:23:57 INFO  TestBase:82 - close the browser
+2018-04-01 03:07:10 INFO  TestBase:27 - To read the config Property file
+2018-04-01 03:07:10 INFO  TestBase:29 - To read fis 
+2018-04-01 03:07:10 INFO  TestBase:31 - load the Properties
+2018-04-01 03:07:19 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 03:07:55 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 03:07:57 INFO  TestBase:58 - Maximize the windo
+2018-04-01 03:07:57 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 03:07:59 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:08:05 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (045f26412acb54f380c7ad4b7c989d33)] -> xpath: //*[@id='email_create']]
+2018-04-01 03:08:05 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:08:12 INFO  TestBase:92 - close the browser
+2018-04-01 03:30:36 INFO  TestBase:27 - To read the config Property file
+2018-04-01 03:30:36 INFO  TestBase:29 - To read fis 
+2018-04-01 03:30:36 INFO  TestBase:31 - load the Properties
+2018-04-01 03:30:44 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 03:31:18 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 03:31:20 INFO  TestBase:58 - Maximize the windo
+2018-04-01 03:31:20 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 03:31:23 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:31:29 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (30e14e701222220162cb9a664aadd45d)] -> xpath: //*[@id='email_create']]
+2018-04-01 03:31:29 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:31:35 INFO  TestBase:92 - close the browser
+2018-04-01 03:32:32 INFO  TestBase:27 - To read the config Property file
+2018-04-01 03:32:32 INFO  TestBase:29 - To read fis 
+2018-04-01 03:32:32 INFO  TestBase:31 - load the Properties
+2018-04-01 03:32:39 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 03:33:13 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 03:33:15 INFO  TestBase:58 - Maximize the windo
+2018-04-01 03:33:15 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 03:33:17 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:33:23 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (91e27d7d068e9bf1fc15eb7005e943ce)] -> xpath: //*[@id='email_create']]
+2018-04-01 03:33:23 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:33:30 INFO  TestBase:92 - close the browser
+2018-04-01 03:33:30 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-01 03:33:30 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 03:33:30 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 03:33:30 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 03:34:11 INFO  TestBase:27 - To read the config Property file
+2018-04-01 03:34:11 INFO  TestBase:29 - To read fis 
+2018-04-01 03:34:11 INFO  TestBase:31 - load the Properties
+2018-04-01 03:34:19 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 03:34:53 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 03:34:54 INFO  TestBase:58 - Maximize the windo
+2018-04-01 03:34:55 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 03:34:57 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:35:03 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (bb4023dc14f572a29ebb7b7032f11faf)] -> xpath: //*[@id='email_create']]
+2018-04-01 03:35:03 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 03:35:10 INFO  TestBase:92 - close the browser
+2018-04-01 03:35:10 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-01 03:35:10 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 03:35:10 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 03:35:10 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 04:40:12 INFO  TestBase:27 - To read the config Property file
+2018-04-01 04:40:12 INFO  TestBase:29 - To read fis 
+2018-04-01 04:40:12 INFO  TestBase:31 - load the Properties
+2018-04-01 04:40:26 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 04:40:47 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 04:40:49 INFO  TestBase:58 - Maximize the windo
+2018-04-01 04:40:49 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 04:41:22 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-01 04:41:32 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 04:41:33 INFO  TestBase:27 - To read the config Property file
+2018-04-01 04:41:33 INFO  TestBase:29 - To read fis 
+2018-04-01 04:41:33 INFO  TestBase:31 - load the Properties
+2018-04-01 04:41:37 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-01 04:41:39 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 04:41:41 INFO  TC002_verifySignInPage:33 - verifyCreate Account started 
+2018-04-01 04:41:45 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-01 04:41:49 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 04:41:53 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 04:41:57 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 04:42:15 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 04:42:16 INFO  TestBase:58 - Maximize the windo
+2018-04-01 04:42:16 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 04:42:19 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 04:42:25 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> xpath: //*[@id='email_create']]
+2018-04-01 04:42:25 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 04:42:29 INFO  TC002_verifySignInPage:33 - verifyCreate Account started 
+2018-04-01 04:42:29 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 04:42:31 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: customer_firstname]
+2018-04-01 04:42:32 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: customer_lastname]
+2018-04-01 04:42:32 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: passwd]
+2018-04-01 04:42:33 INFO  TestBase:98 - To selcet the dropdown By using Index[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: days]5
+2018-04-01 04:42:33 INFO  TestBase:98 - To selcet the dropdown By using Index[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: months]3
+2018-04-01 04:42:34 INFO  TestBase:98 - To selcet the dropdown By using Index[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: years]25
+2018-04-01 04:42:34 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 04:42:35 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 04:42:35 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: firstname]
+2018-04-01 04:42:35 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: lastname]
+2018-04-01 04:42:36 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: company]
+2018-04-01 04:42:36 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: address1]
+2018-04-01 04:42:37 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: address2]
+2018-04-01 04:42:37 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: city]
+2018-04-01 04:42:38 INFO  TestBase:98 - To selcet the dropdown By using Index[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: id_state]1
+2018-04-01 04:42:38 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: postcode]
+2018-04-01 04:42:38 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: other]
+2018-04-01 04:42:41 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: phone]
+2018-04-01 04:42:42 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: phone_mobile]
+2018-04-01 04:42:42 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (ba6c5ab8b7c682515e25d452574d9028)] -> id: alias]
+2018-04-01 04:42:44 INFO  TestBase:82 - Click Operation perfomed
+2018-04-01 04:42:44 INFO  TC002_verifySignInPage:37 - verifyCreate acoount ended
+2018-04-01 04:42:47 INFO  TestBase:92 - close the browser
+2018-04-01 05:28:47 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:28:47 INFO  TestBase:29 - To read fis 
+2018-04-01 05:28:47 INFO  TestBase:31 - load the Properties
+2018-04-01 05:28:56 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 05:29:30 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 05:29:32 INFO  TestBase:58 - Maximize the windo
+2018-04-01 05:29:32 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 05:29:35 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-01 05:29:35 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:29:35 INFO  TestBase:29 - To read fis 
+2018-04-01 05:29:35 INFO  TestBase:31 - load the Properties
+2018-04-01 05:29:41 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 05:31:41 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:31:41 INFO  TestBase:29 - To read fis 
+2018-04-01 05:31:41 INFO  TestBase:31 - load the Properties
+2018-04-01 05:31:49 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 05:32:26 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 05:32:27 INFO  TestBase:58 - Maximize the windo
+2018-04-01 05:32:27 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 05:32:30 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-01 05:32:50 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 05:33:10 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 05:33:12 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-01 05:33:14 INFO  TestBase:92 - close the browser
+2018-04-01 05:41:21 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:41:21 INFO  TestBase:29 - To read fis 
+2018-04-01 05:41:21 INFO  TestBase:31 - load the Properties
+2018-04-01 05:41:28 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-01 05:42:03 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-01 05:42:05 INFO  TestBase:58 - Maximize the windo
+2018-04-01 05:42:05 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-01 05:42:08 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-01 05:42:28 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 05:42:37 INFO  TestBase:76 - sendkeys action not performed
+2018-04-01 05:42:41 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-01 05:44:21 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:44:21 INFO  TestBase:29 - To read fis 
+2018-04-01 05:44:21 INFO  TestBase:31 - load the Properties
+2018-04-01 05:44:39 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:44:39 INFO  TestBase:29 - To read fis 
+2018-04-01 05:44:39 INFO  TestBase:31 - load the Properties
+2018-04-01 05:44:55 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:44:55 INFO  TestBase:29 - To read fis 
+2018-04-01 05:44:55 INFO  TestBase:31 - load the Properties
+2018-04-01 05:46:27 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:46:27 INFO  TestBase:29 - To read fis 
+2018-04-01 05:46:27 INFO  TestBase:31 - load the Properties
+2018-04-01 05:46:54 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:46:54 INFO  TestBase:29 - To read fis 
+2018-04-01 05:46:54 INFO  TestBase:31 - load the Properties
+2018-04-01 05:48:46 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:48:46 INFO  TestBase:29 - To read fis 
+2018-04-01 05:48:46 INFO  TestBase:31 - load the Properties
+2018-04-01 05:52:25 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:52:25 INFO  TestBase:29 - To read fis 
+2018-04-01 05:52:25 INFO  TestBase:31 - load the Properties
+2018-04-01 05:53:58 INFO  TestBase:27 - To read the config Property file
+2018-04-01 05:53:58 INFO  TestBase:29 - To read fis 
+2018-04-01 05:53:58 INFO  TestBase:31 - load the Properties
+2018-04-05 07:51:57 INFO  TestBase:27 - To read the config Property file
+2018-04-05 07:51:57 INFO  TestBase:29 - To read fis 
+2018-04-05 07:51:57 INFO  TestBase:31 - load the Properties
+2018-04-05 08:02:30 INFO  TestBase:27 - To read the config Property file
+2018-04-05 08:02:30 INFO  TestBase:29 - To read fis 
+2018-04-05 08:02:30 INFO  TestBase:31 - load the Properties
+2018-04-05 08:08:05 INFO  TestBase:27 - To read the config Property file
+2018-04-05 08:08:05 INFO  TestBase:29 - To read fis 
+2018-04-05 08:08:05 INFO  TestBase:31 - load the Properties
+2018-04-05 08:12:45 INFO  TestBase:27 - To read the config Property file
+2018-04-05 08:12:45 INFO  TestBase:29 - To read fis 
+2018-04-05 08:12:45 INFO  TestBase:31 - load the Properties
+2018-04-05 08:16:21 INFO  TestBase:27 - To read the config Property file
+2018-04-05 08:16:21 INFO  TestBase:29 - To read fis 
+2018-04-05 08:16:21 INFO  TestBase:31 - load the Properties
+2018-04-05 08:16:30 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-05 08:17:07 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-05 08:17:08 INFO  TestBase:58 - Maximize the windo
+2018-04-05 08:17:08 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-05 08:17:14 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-05 08:17:39 INFO  TestBase:76 - sendkeys action not performed
+2018-04-05 08:17:59 INFO  TestBase:76 - sendkeys action not performed
+2018-04-05 08:18:02 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-05 08:18:05 INFO  TestBase:92 - close the browser
+2018-04-05 09:23:31 INFO  TestBase:27 - To read the config Property file
+2018-04-05 09:23:31 INFO  TestBase:29 - To read fis 
+2018-04-05 09:23:31 INFO  TestBase:31 - load the Properties
+2018-04-05 09:23:41 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-05 09:24:18 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-05 09:24:19 INFO  TestBase:58 - Maximize the windo
+2018-04-05 09:24:19 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-05 09:24:22 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-05 09:24:30 INFO  TestBase:74 - text  enter into the Text Box[[ChromeDriver: chrome on XP (f12aac71589c1a3a66b07301439e3f50)] -> xpath: //*[@id='email_create']]
+2018-04-05 09:24:31 INFO  TestBase:82 - Click Operation performedCreate an account
+2018-04-05 09:24:35 INFO  TC002_verifySignInPage:33 - verifyCreate Account started 
+2018-04-05 09:24:48 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-05 09:24:48 INFO  TestBase:76 - sendkeys action not performed
+2018-04-05 09:24:48 INFO  TestBase:76 - sendkeys action not performed
+2018-04-05 09:24:48 INFO  TestBase:76 - sendkeys action not performed
+2018-04-05 09:42:44 INFO  TestBase:27 - To read the config Property file
+2018-04-05 09:42:44 INFO  TestBase:29 - To read fis 
+2018-04-05 09:42:44 INFO  TestBase:31 - load the Properties
+2018-04-05 09:42:55 INFO  TestBase:39 - To Launch the Chrome Browser
+2018-04-05 09:43:33 INFO  TestBase:56 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-05 09:43:34 INFO  TestBase:58 - Maximize the windo
+2018-04-05 09:43:34 INFO  TestBase:60 - implicitwait 20 second 
+2018-04-05 09:43:37 INFO  TestBase:82 - Click Operation performedSign in
+2018-04-05 09:43:42 INFO  TestBase:76 - sendkeys action not performed
+2018-04-05 09:43:42 INFO  TestBase:76 - sendkeys action not performed
+2018-04-05 09:43:42 INFO  TestBase:84 - Click Operation NOt performed
+2018-04-05 09:43:45 INFO  TestBase:92 - close the browser
+2018-04-05 10:30:24 INFO  TestBase:30 - To read the config Property file
+2018-04-05 10:30:24 INFO  TestBase:32 - To read fis 
+2018-04-05 10:30:24 INFO  TestBase:34 - load the Properties
+2018-04-05 10:30:38 INFO  TestBase:49 - To Launch the Chrome Browser
+2018-04-05 10:31:10 INFO  TestBase:66 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-05 10:31:11 INFO  TestBase:68 - Maximize the windo
+2018-04-05 10:31:11 INFO  TestBase:70 - implicitwait 20 second 
+2018-04-05 10:31:15 INFO  TestBase:92 - Click Operation performedSign in
+2018-04-05 10:31:26 INFO  TestBase:84 - text  enter into the Text Box[[ChromeDriver: chrome on XP (151b13ef0b5f0e690f070ab420bbf04a)] -> xpath: //*[@id='email_create']]
+2018-04-05 10:31:27 INFO  TestBase:92 - Click Operation performedCreate an account
+2018-04-05 10:31:31 INFO  TC002_verifySignInPage:34 - verifyCreate Account started 
+2018-04-05 10:31:51 INFO  TestBase:94 - Click Operation NOt performed
+2018-04-05 10:31:57 INFO  TestBase:86 - sendkeys action not performed
+2018-04-05 10:31:57 INFO  TestBase:86 - sendkeys action not performed
+2018-04-05 10:31:57 INFO  TestBase:86 - sendkeys action not performed
+2018-04-14 06:30:34 INFO  TestBase:30 - To read the config Property file
+2018-04-14 06:30:34 INFO  TestBase:32 - To read fis 
+2018-04-14 06:30:34 INFO  TestBase:34 - load the Properties
+2018-04-14 06:30:46 INFO  TestBase:49 - To Launch the Chrome Browser
+2018-04-14 06:31:16 INFO  TestBase:66 - To enter the URL _http://automationpractice.com/index.php?
+2018-04-14 06:31:18 INFO  TestBase:68 - Maximize the windo
+2018-04-14 06:31:18 INFO  TestBase:70 - implicitwait 20 second 
+2018-04-14 06:31:22 INFO  TestBase:92 - Click Operation performedSign in
+2018-04-14 06:31:29 INFO  TestBase:84 - text  enter into the Text Box[[ChromeDriver: chrome on XP (cdc03d62358640ff5cde03f485a03100)] -> xpath: //*[@id='email_create']]
+2018-04-14 06:31:29 INFO  TestBase:92 - Click Operation performedCreate an account
+2018-04-14 06:31:34 INFO  TC002_verifySignInPage:34 - verifyCreate Account started 
+2018-04-14 06:31:54 INFO  TestBase:94 - Click Operation NOt performed
+2018-04-14 06:32:14 INFO  TestBase:86 - sendkeys action not performed
+2018-04-14 06:32:34 INFO  TestBase:86 - sendkeys action not performed
+2018-04-14 06:32:35 INFO  TestBase:84 - text  enter into the Text Box[[ChromeDriver: chrome on XP (cdc03d62358640ff5cde03f485a03100)] -> id: passwd]
+2018-04-14 06:32:57 INFO  TestBase:102 - close the browser
+2018-06-29 18:49:48 INFO  TestBase:30 - To read the config Property file
+2018-06-29 18:49:48 INFO  TestBase:32 - To read fis 
+2018-06-29 18:49:48 INFO  TestBase:34 - load the Properties
+2018-06-29 18:50:05 INFO  TestBase:49 - To Launch the Chrome Browser
+2018-06-29 18:50:12 INFO  TestBase:66 - To enter the URL _http://automationpractice.com/index.php?
+2018-06-29 18:50:13 INFO  TestBase:68 - Maximize the windo
+2018-06-29 18:50:13 INFO  TestBase:70 - implicitwait 20 second 
+2018-06-29 18:50:18 INFO  TestBase:92 - Click Operation performedSign in
+2018-06-29 18:50:25 INFO  TestBase:102 - close the browser
+2018-06-29 18:51:51 INFO  TestBase:30 - To read the config Property file
+2018-06-29 18:51:51 INFO  TestBase:32 - To read fis 
+2018-06-29 18:51:51 INFO  TestBase:34 - load the Properties
+2018-06-29 18:52:00 INFO  TestBase:49 - To Launch the Chrome Browser
+2018-06-29 18:52:08 INFO  TestBase:66 - To enter the URL _http://automationpractice.com/index.php?
+2018-06-29 18:52:09 INFO  TestBase:68 - Maximize the windo
+2018-06-29 18:52:09 INFO  TestBase:70 - implicitwait 20 second 
+2018-06-29 18:52:13 INFO  TestBase:92 - Click Operation performedSign in
+2018-06-29 18:52:20 INFO  TestBase:86 - sendkeys action not performed
+2018-06-29 18:52:20 INFO  TestBase:86 - sendkeys action not performed
+2018-06-29 18:52:20 INFO  TestBase:94 - Click Operation NOt performed
+2018-06-29 18:52:22 INFO  TestBase:102 - close the browser
+2018-06-29 18:53:25 INFO  TestBase:30 - To read the config Property file
+2018-06-29 18:53:25 INFO  TestBase:32 - To read fis 
+2018-06-29 18:53:25 INFO  TestBase:34 - load the Properties
+2018-06-29 18:53:33 INFO  TestBase:49 - To Launch the Chrome Browser
+2018-06-29 18:53:43 INFO  TestBase:66 - To enter the URL _http://automationpractice.com/index.php?
+2018-06-29 18:53:44 INFO  TestBase:68 - Maximize the windo
+2018-06-29 18:53:44 INFO  TestBase:70 - implicitwait 20 second 
+2018-06-29 18:53:47 INFO  TestBase:92 - Click Operation performedSign in
+2018-06-29 18:53:53 INFO  TestBase:86 - sendkeys action not performed
+2018-06-29 18:53:53 INFO  TestBase:86 - sendkeys action not performed
+2018-06-29 18:53:54 INFO  TestBase:94 - Click Operation NOt performed
+2018-06-29 18:53:56 INFO  TestBase:102 - close the browser
+2018-06-29 19:03:01 INFO  TestBase:30 - To read the config Property file
+2018-06-29 19:03:01 INFO  TestBase:32 - To read fis 
+2018-06-29 19:03:01 INFO  TestBase:34 - load the Properties
+2018-06-29 19:03:09 INFO  TestBase:49 - To Launch the Chrome Browser
+2018-06-29 19:03:20 INFO  TestBase:66 - To enter the URL _http://automationpractice.com/index.php?
+2018-06-29 19:03:21 INFO  TestBase:68 - Maximize the windo
+2018-06-29 19:03:21 INFO  TestBase:70 - implicitwait 20 second 
+2018-06-29 19:03:24 INFO  TestBase:92 - Click Operation performedSign in
+2018-06-29 19:03:30 INFO  TestBase:86 - sendkeys action not performed
+2018-06-29 19:03:30 INFO  TestBase:86 - sendkeys action not performed
+2018-06-29 19:03:31 INFO  TestBase:94 - Click Operation NOt performed
+2018-06-29 19:03:33 INFO  TestBase:102 - close the browser
+2018-06-30 23:00:08 INFO  DEMOForSC:28 - enter the URL
+2018-06-30 23:00:10 INFO  DEMOForSC:32 - maximize the window
+2018-06-30 23:21:34 INFO  DEMOForSC:28 - enter the URL
+2018-06-30 23:21:36 INFO  DEMOForSC:32 - maximize the window
+2018-06-30 23:21:38 INFO  DEMOForSC:44 - enter the user name
+2018-06-30 23:24:25 INFO  DEMOForSC:28 - enter the URL
+2018-06-30 23:24:27 INFO  DEMOForSC:32 - maximize the window
+2018-06-30 23:24:28 INFO  DEMOForSC:44 - enter the user name
+2018-06-30 23:24:29 INFO  DEMOForSC:47 - eneter the password
+2018-06-30 23:25:31 INFO  DEMOForSC:49 - clicl on sign in
+2018-07-10 06:50:52 INFO  DEMOForSC:36 - enter the URL
+2018-07-10 07:09:59 INFO  DEMOForSC:35 - enter the URL
+2018-07-10 07:17:05 INFO  DEMOForSC:35 - enter the URL
+2018-07-10 07:20:15 INFO  DEMOForSC:35 - enter the URL
+2018-07-10 07:27:27 INFO  DEMOForSC:44 - enter the URL
+2018-07-10 07:39:17 INFO  DEMOForSC:47 - enter the URL
+2018-07-10 07:39:19 INFO  DEMOForSC:52 - maximize the window
+2018-07-10 07:42:28 INFO  DEMOForSC:47 - enter the URL
+2018-07-10 07:42:30 INFO  DEMOForSC:52 - maximize the window
+2018-07-10 07:42:33 INFO  DEMOForSC:67 - enter the user name
+2018-07-10 07:42:33 INFO  DEMOForSC:72 - eneter the password
+2018-07-10 07:42:45 INFO  DEMOForSC:74 - clicl on sign in
+2018-07-16 09:19:10 INFO  DEMOForSC:47 - enter the URL
+2018-07-16 09:19:13 INFO  DEMOForSC:52 - maximize the window
+2018-07-16 09:19:17 INFO  DEMOForSC:67 - enter the user name
+2018-07-16 09:19:17 INFO  DEMOForSC:72 - eneter the password
+2018-07-16 09:19:52 INFO  DEMOForSC:74 - clicl on sign in
+2018-07-17 07:26:06 INFO  DEMOForSC:47 - enter the URL
+2018-07-17 07:26:08 INFO  DEMOForSC:52 - maximize the window
+2018-07-17 07:26:11 INFO  DEMOForSC:67 - enter the user name
+2018-07-17 07:26:11 INFO  DEMOForSC:72 - eneter the password
+2019-09-24 22:26:54 INFO  TestBase:30 - To read the config Property file
+2019-09-24 22:28:26 INFO  TestBase:30 - To read the config Property file
+2019-09-25 20:04:16 INFO  TestBase:30 - To read the config Property file

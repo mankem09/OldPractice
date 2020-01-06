@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testnggroup">
+<listeners>
+<listener class-name="com.pageObjectModel.tsetNGPackage.CustomListnerDemo"></listener>
+</listeners>
+  <test name="groupTest">
+  <groups>
+  <run>
+  <include name="Smoke"></include>
+  <include name="sanity"></include>
+  <include name="regrssion"></include>
+  </run>
+  </groups>
+    <classes>
+      <class name="com.pageObjectModel.tsetNGPackage.TestNGGroups"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
